@@ -1,0 +1,9 @@
+{
+  "name": "challenges",
+  "description": "An engaging math challenge application for all ages, featuring social interaction, crypto subscriptions, and AI-powered support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
